@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development & Data Engineering
 - 🌱 I’m currently learning these Technologies
 - 💞️ I’m looking to collaborate on Python Related Projects
-- 📫 How to reach me Linkedin
+- 📫 How to reach me https://www.linkedin.com/in/kamran-ashraf-python28/
 - ⚡ I'm currently working as a Software & Data Engineer in ZZ-Technologies and actively seeking remote freelance opportunities.
 
 <!---
