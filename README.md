@@ -1,9 +1,9 @@
-👋 Hi, I’m @KamranAshraf
-👀 I’m interested in Software Development & Data Engineering
-🌱 I’m currently learning Advance Data Engineering Concepts
-💞️ I’m looking to collaborate on Python Related Projects
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamran-ashraf-python28/)
-⚡ I'm currently working as a Python Developer at DSS (Defence Solutions & Systems) and actively seeking remote freelance opportunities.
+• 👋 Hi, I’m @KamranAshraf
+• 👀 I’m interested in Software Development & Data Engineering
+• 🌱 I’m currently learning Advance Data Engineering Concepts
+• 💞️ I’m looking to collaborate on Python Related Projects
+• 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamran-ashraf-python28/)
+• ⚡ I'm currently working as a Python Developer at DSS (Defence Solutions & Systems) and actively seeking remote freelance opportunities.
 
 ## About Me
 
