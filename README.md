@@ -11,14 +11,15 @@ I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in
 
 ## Skills
 
+- HTML
+- CSS
+- Javascript
+- Bootstrap
 - Python
 - PHP
 - Django
 - Laravel
 - Flask
-- HTML
-- CSS
-- Javascript
 - React JS
 - SQL (MySQL, PostgreSQL)
 - NoSQL (MongoDB, Cassandra)
