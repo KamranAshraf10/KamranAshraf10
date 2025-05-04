@@ -19,18 +19,11 @@ I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in
 - PHP
 - Django
 - Laravel
-- Flask
-- React JS
 - SQL (MySQL, PostgreSQL)
 - NoSQL (MongoDB, Cassandra)
 
 ## Projects
 
-Here are a few notable projects I've worked on:
-
-- **Python Web Application**: Developed a web application using Django and Flask, focusing on creating a scalable and efficient backend.
-- **Data Scraping & Automation**: Implemented a data scraping project to collect and process data from various sources, enhancing the application's data processing capabilities.
-- **Electro Ecommerce Web App**: Preparing a full-fledged e-commerce store with ReactJS and Python Django Framework.
 
 ## Get in Touch
 
