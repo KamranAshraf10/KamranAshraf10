@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in Software Development, Full-Stack Web Development, and Web scraping. With a strong foundation in backend technologies Python(Flask, Django), PHP(Laravel), and frontend technologies (HTML, CSS, Bootstrap, JS & ReactJS), I enjoy building scalable web apps. My experience includes software development, web development, data scraping, and optimizing data processing workflows.
+I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in Software Development, Full-Stack Web Development, and Web scraping. With a strong foundation in backend technologies Python(Flask, Django), and frontend technologies (HTML, CSS, Bootstrap, JS & ReactJS), I enjoy building scalable web apps. My experience includes software development, web development, data scraping, and optimizing data processing workflows.
 
 ## Skills
 
@@ -16,9 +16,7 @@ I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in
 - Javascript
 - Bootstrap
 - Python
-- PHP
 - Django
-- Laravel
 - SQL (MySQL, PostgreSQL)
 - NoSQL (MongoDB, Cassandra)
 
