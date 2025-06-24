@@ -3,11 +3,11 @@
 • 🌱 I’m  learning AI Concepts to boost websites with AI Integration! <br>
 • 💞️ I’m looking to collaborate on Web Dev Projects<br>
 • 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mkamranashraf/)<br>
-• ⚡ I'm currently working as a Full-Stack Developer at DSS (Defence Solutions & Systems).<br>
+• ⚡ I'm currently working as a Full-Stack Developer.<br>
 
 ## About Me
 
-I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in Software Development, Full-Stack Web Development, and Web scraping. With a strong foundation in backend technologies Python(Flask, Django), and frontend technologies (HTML, CSS, Bootstrap, JS & ReactJS), I enjoy building scalable web apps. My experience includes software development, web development, data scraping, and optimizing data processing workflows.
+I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in Software Development, Full-Stack Web Development, and Web scraping. With a strong foundation in backend technologies Python(Flask, Django) and frontend technologies (HTML, CSS, Bootstrap, JavaScript and ReactJS), I enjoy building scalable web applications. My experience includes software development, web development, data scraping, and optimizing data processing workflows.
 
 ## Skills
 
@@ -15,6 +15,7 @@ I'm a Full-Stack Developer at DSS (Defence Solutions & Systems), specializing in
 - CSS
 - Javascript
 - Bootstrap
+- React JS
 - Python
 - Django
 - SQL (MySQL, PostgreSQL)
